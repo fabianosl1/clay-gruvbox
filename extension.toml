@@ -1,7 +1,7 @@
-id = "modern-gruvbox"
-name = "Modern Gruvbox"
+id = "clay-gruvbox"
+name = "Clay Gruvbox"
 version = "0.1.0"
 schema_version = 1
 authors = ["Fabiano Lima"]
-description = "A dark theme with defined Gruvbox syntax colors, neutral surfaces, and warm red accents."
-repository = "https://github.com/fabianosl1/modern-gruvbox"
+description = "Four light and dark Gruvbox-inspired themes with soft and hard contrast, Claude orange accents, and familiar tool colors."
+repository = "https://github.com/fabianosl1/clay-gruvbox"
